@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Interaction Between Activities</string>
+    <string name="texto_ayuda">Ingrese una palabra</string>
+    <string name="texto_boton_ayuda">SEND</string>
+    <string name="texto_boton_atras">BACK</string>
+</resources>
